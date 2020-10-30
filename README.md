@@ -6,7 +6,7 @@
 #### 1] Technique to Remove Baseline Removal (Output)
 <br>See the Report for the theory.
 <br> Signal with baseline noise
-![alt text](https://github.com/waranyoghes/baseline_removal_and_cluster_analysis/img/blob/master/baseline nosie.png?raw=true)
+![alt text](https://github.com/waranyoghes/baseline_removal_and_cluster_analysis/img/blob/master/baseline_nosie.png?raw=true)
 
 
 
